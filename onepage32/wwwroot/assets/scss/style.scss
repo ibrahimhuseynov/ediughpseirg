@@ -1,0 +1,112 @@
+.classicosa{
+    display: flex;
+ padding-right:  30rem;
+}
+.box{
+    background-color: red;
+    height: 50rem;
+    .container .row .classslidertex{
+        display: flex;
+        .classslider{
+            padding-top: 10rem;
+            h1{
+                color: white;
+                font-size: 10rem;
+            }
+            p{
+                color: white;
+            }
+
+        }
+        img{
+            width: 40rem;
+          height: 48rem;
+        }
+    }
+}
+ .container .row {
+     .classcardone{
+         text-align: center;
+         justify-content: center;
+        align-items: center;
+         padding: 1rem;
+         border: solid black;
+         height: 18rem;
+       
+         background-color: white;
+       
+         i{
+             padding-top: 3rem;
+             font-size: 2rem;
+         }
+     }
+     .classbtn32{
+         text-align: center;
+         padding-top: 2rem;
+         
+         button{
+             width: 14rem;
+             height: 4rem;
+             color: white;
+      
+             background-color: rgb(36, 11, 11);
+             &:hover{
+                background-color: white;
+             }
+         }
+     }
+    .boxcard{
+        padding-top: 5rem;
+        text-align: center;
+        padding-bottom: 3rem;
+       i{
+           font-size: 3rem;
+       }
+        span{
+            font-size: 4rem;
+            color: black;
+        }
+        
+    }
+ }
+ .twe{
+     padding-top: 2rem;
+    .boxsone {
+       background-image: url(../img/about_bg.jpg);
+        padding-top: 14rem;
+        padding-left: 16rem;
+        height: 40rem;
+        i{
+            font-size: 3rem; 
+            color: white;
+            padding: 1rem;
+        }
+        p{
+            color: white;
+        }
+
+     background-color: red;
+    }
+  
+ }
+ .container .row .boxsssliders{
+     padding-top: 4rem;
+     .classhead{
+         text-align: center;
+         i{
+             font-size: 3rem;
+          padding: 1rem;
+         }
+         span{
+           font-size: 4rem;
+
+         }
+     }
+     .classsliders22 .mySwiper{
+         text-align: center;
+         padding-top: 4rem;
+         height: 50rem;
+      
+        
+     }
+ }

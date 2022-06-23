@@ -1,0 +1,131 @@
+.classicosa {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-right: 30rem;
+}
+
+.box {
+  background-color: red;
+  height: 50rem;
+}
+
+.box .container .row .classslidertex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.box .container .row .classslidertex .classslider {
+  padding-top: 10rem;
+}
+
+.box .container .row .classslidertex .classslider h1 {
+  color: white;
+  font-size: 10rem;
+}
+
+.box .container .row .classslidertex .classslider p {
+  color: white;
+}
+
+.box .container .row .classslidertex img {
+  width: 40rem;
+  height: 48rem;
+}
+
+.container .row .classcardone {
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1rem;
+  border: solid black;
+  height: 18rem;
+  background-color: white;
+}
+
+.container .row .classcardone i {
+  padding-top: 3rem;
+  font-size: 2rem;
+}
+
+.container .row .classbtn32 {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.container .row .classbtn32 button {
+  width: 14rem;
+  height: 4rem;
+  color: white;
+  background-color: #240b0b;
+}
+
+.container .row .classbtn32 button:hover {
+  background-color: white;
+}
+
+.container .row .boxcard {
+  padding-top: 5rem;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+.container .row .boxcard i {
+  font-size: 3rem;
+}
+
+.container .row .boxcard span {
+  font-size: 4rem;
+  color: black;
+}
+
+.twe {
+  padding-top: 2rem;
+}
+
+.twe .boxsone {
+  background-image: url(../img/about_bg.jpg);
+  padding-top: 14rem;
+  padding-left: 16rem;
+  height: 40rem;
+  background-color: red;
+}
+
+.twe .boxsone i {
+  font-size: 3rem;
+  color: white;
+  padding: 1rem;
+}
+
+.twe .boxsone p {
+  color: white;
+}
+
+.container .row .boxsssliders {
+  padding-top: 4rem;
+}
+
+.container .row .boxsssliders .classhead {
+  text-align: center;
+}
+
+.container .row .boxsssliders .classhead i {
+  font-size: 3rem;
+  padding: 1rem;
+}
+
+.container .row .boxsssliders .classhead span {
+  font-size: 4rem;
+}
+
+.container .row .boxsssliders .classsliders22 .mySwiper {
+  text-align: center;
+  padding-top: 4rem;
+  height: 50rem;
+}
+/*# sourceMappingURL=style.css.map */
